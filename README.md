@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @xamelllion
-- 👀 I’m interested in Web, AI, Hardware development
-- 📫 Find more information about me on my website: [xamelllion.ru](https://xamelllion.ru/).
+- 👀 I’m interested in Web, ML, Hardware development
 
 <!---
 xamelllion/xamelllion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
