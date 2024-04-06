@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xamelllion
-- 👀 I’m interested in Web, ML, Hardware development
-- 💻 Python, C/C++, JS
+- 👀 I’m interested in Low Level Coding, Web, Cryptography
+- 💻 C++, Python, JS
 
 <!---
 xamelllion/xamelllion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
