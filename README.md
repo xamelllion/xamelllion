@@ -1,3 +1,4 @@
+- Interests: software engineering, cryptography, hip hop
 - Skills & technologies: C++, LLVM project, Obfuscation, CMake, Docker, Python, React, Git
 <!---
 xamelllion/xamelllion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
